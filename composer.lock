@@ -1488,11 +1488,6 @@
                     "dev-master": "2.x-dev",
                     "dev-3.x": "3.x-dev"
                 },
-                "laravel": {
-                    "providers": [
-                        "Carbon\\Laravel\\ServiceProvider"
-                    ]
-                },
                 "phpstan": {
                     "includes": [
                         "extension.neon"
